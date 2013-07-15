@@ -1,0 +1,143 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1547" measuredH="1237" mockupW="1449" mockupH="1219">
+  <controls>
+    <control controlID="8" controlTypeID="__group__" x="98" y="150" w="640" h="480" measuredW="640" measuredH="480" zOrder="0" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="640" h="480" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="8">
+          <controlProperties>
+            <color>15658734</color>
+            <text>Chaplin%20Issue%20465%0Ahttp%3A//solve.this/view/one</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="70" y="72" w="500" h="382" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="8"/>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="70" y="72" w="500" h="30" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="8">
+          <controlProperties>
+            <color>6710886</color>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Canvas" x="185" y="170" w="270" h="186" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="8">
+          <controlProperties>
+            <color>14540253</color>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::TextInput" x="246" y="223" w="148" h="-1" measuredW="73" measuredH="27" zOrder="4" locked="false" isInGroup="8">
+          <controlProperties>
+            <text>username</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::TextInput" x="246" y="261" w="148" h="-1" measuredW="71" measuredH="27" zOrder="5" locked="false" isInGroup="8">
+          <controlProperties>
+            <text>password</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="246" y="300" w="-1" h="-1" measuredW="54" measuredH="27" zOrder="6" locked="false" isInGroup="8">
+          <controlProperties>
+            <text>Login</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::SubTitle" x="291" y="185" w="-1" h="-1" measuredW="58" measuredH="27" zOrder="7" locked="false" isInGroup="8">
+          <controlProperties>
+            <text>Login</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="9" controlTypeID="__group__" x="907" y="150" w="640" h="480" measuredW="640" measuredH="480" zOrder="1" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="640" h="480" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="9">
+          <controlProperties>
+            <color>15658734</color>
+            <text>Chaplin%20Issue%20465%0Ahttp%3A//solve.this/view/two</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="70" y="72" w="500" h="382" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="9"/>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="70" y="72" w="500" h="30" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="9">
+          <controlProperties>
+            <color>6710886</color>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::SubTitle" x="95" y="128" w="-1" h="-1" measuredW="117" measuredH="27" zOrder="3" locked="false" isInGroup="9">
+          <controlProperties>
+            <text>Dashboard</text>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Webcam" x="406" y="191" w="134" h="116" measuredW="177" measuredH="146" zOrder="4" locked="false" isInGroup="9"/>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="406" y="164" w="-1" h="-1" measuredW="89" measuredH="21" zOrder="5" locked="false" isInGroup="9">
+          <controlProperties>
+            <text>Charlie%20Chaplin</text>
+          </controlProperties>
+        </control>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::LineChart" x="96" y="173" w="269" h="134" measuredW="187" measuredH="175" zOrder="6" locked="false" isInGroup="9"/>
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::ColumnChart" x="97" y="336" w="122" h="103" measuredW="187" measuredH="175" zOrder="7" locked="false" isInGroup="9"/>
+        <control controlID="12" controlTypeID="com.balsamiq.mockups::PieChart" x="268" y="336" w="97" h="103" measuredW="180" measuredH="180" zOrder="8" locked="false" isInGroup="9"/>
+        <control controlID="13" controlTypeID="com.balsamiq.mockups::Calendar" x="407" y="324" w="133" h="115" measuredW="96" measuredH="96" zOrder="9" locked="false" isInGroup="9"/>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Canvas" x="717" y="18" w="202" h="86" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>roundedSolid</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::SubTitle" x="771" y="48" w="-1" h="-1" measuredW="95" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Mediator</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Arrow" x="442" y="57" w="251" h="64" measuredW="150" measuredH="100" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Arrow" x="948" y="57" w="251" h="64" measuredW="150" measuredH="100" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>top</direction>
+        <leftArrow>false</leftArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Label" x="387" y="27" w="-1" h="-1" measuredW="212" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>On%20login%2C%20store%20user%20info%20to%20mediator.</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="1022" y="27" w="-1" h="-1" measuredW="230" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>On%20new%20action%2C%20get%20user%20from%20mediator.</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="__group__" x="907" y="757" w="640" h="480" measuredW="640" measuredH="480" zOrder="8" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="640" h="480" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="16">
+          <controlProperties>
+            <color>15658734</color>
+            <text>Chaplin%20Issue%20465%0Ahttp%3A//solve.this/view/three</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="70" y="72" w="500" h="382" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="16"/>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="70" y="72" w="500" h="30" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="16">
+          <controlProperties>
+            <color>6710886</color>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::SubTitle" x="95" y="128" w="450" h="-1" measuredW="372" measuredH="27" zOrder="3" locked="false" isInGroup="16">
+          <controlProperties>
+            <text>Analytics%3A%20Number%20of%20unique%20visits</text>
+          </controlProperties>
+        </control>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::LineChart" x="96" y="173" w="449" h="163" measuredW="187" measuredH="175" zOrder="4" locked="false" isInGroup="16"/>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Arrow" x="1010" y="446" w="192" h="477" measuredW="150" measuredH="100" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <leftArrow>false</leftArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Paragraph" x="1180" y="648" w="367" h="112" measuredW="200" measuredH="80" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>When%20a%20user%20%5Bclicks%5D%20on%20the%20graph%2C%20it%20takes%20them%20to%20a%20new%20page%20which%20is%20represented%20in%20another%20action.%20A%20fetch%20was%20made%20to%20get%20the%20original%20data%20for%20this%20graph%3B%20I%20don%27t%20want%20to%20make%20another%20fetch%20to%20get%20the%20data.%20Without%20putting%20this%20data%20on%20the%20mediator%2C%20since%20it%27s%20not%20persistent%20like%20the%20user%20is%2C%20how%20does%20one%20pass%20the%20data%20between%20actions%3F</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
